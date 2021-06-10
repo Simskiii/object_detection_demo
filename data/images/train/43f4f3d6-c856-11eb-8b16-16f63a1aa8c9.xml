@@ -1,0 +1,26 @@
+<annotation>
+	<folder>free</folder>
+	<filename>43f4f3d6-c856-11eb-8b16-16f63a1aa8c9.jpg</filename>
+	<path>C:\Dateien\Uni\4-Semester\Bildverstehen\label_rob\free\43f4f3d6-c856-11eb-8b16-16f63a1aa8c9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rob</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>43</ymin>
+			<xmax>179</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>
